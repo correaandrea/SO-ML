@@ -1,0 +1,58 @@
+════════════════════════════════════════════════════════════
+ANÁLISIS ESTADÍSTICO — PROYECTO FINAL SO
+Universidad de Antioquia
+Sistemas Operativos y Laboratorio
+════════════════════════════════════════════════════════════
+
+── 1. Estadísticos Descriptivos ────────────────────────
+
+  Tiempo real (s)
+  Grupo                   n      Media   Desv.Est        Mín        Máx    Mediana
+  ──────────────────────────────────────────────────────────────────────────
+  sin_ml                 10    30.9338     0.3169    30.0321    31.0452    31.0328
+  con_ml                 10    31.0330     0.0064    31.0249    31.0417    31.0310
+
+  Tiempo CPU (s)
+  Grupo                   n      Media   Desv.Est        Mín        Máx    Mediana
+  ──────────────────────────────────────────────────────────────────────────
+  sin_ml                 10     0.0235     0.0027     0.0186     0.0277     0.0234
+  con_ml                 10     0.0278     0.0132     0.0203     0.0650     0.0241
+
+  CPU promedio (%)
+  Grupo                   n      Media   Desv.Est        Mín        Máx    Mediana
+  ──────────────────────────────────────────────────────────────────────────
+  sin_ml                 10    96.1910     1.8833    93.7700    99.8500    96.7200
+  con_ml                 10    95.8380     1.4284    93.6900    96.8200    96.6800
+
+  Memoria promedio (%)
+  Grupo                   n      Media   Desv.Est        Mín        Máx    Mediana
+  ──────────────────────────────────────────────────────────────────────────
+  sin_ml                 10    22.0300     0.4369    21.5600    22.9900    21.8750
+  con_ml                 10    24.0970     0.2165    23.7400    24.3800    24.1400
+
+── 2. Prueba t de Student (Welch) — Tiempo real ────────
+
+  Hipótesis nula (H0): No hay diferencia en el tiempo de
+    ejecución entre el grupo sin ML y con ML.
+  Hipótesis alternativa (H1): Sí hay diferencia.
+
+  Media grupo control (sin_ml) : 30.9338 s
+  Media grupo tratamiento (con_ml): 31.0330 s
+  Diferencia relativa          : -0.32%
+
+  Estadístico t  : -0.99
+  Valor p        : 0.348037
+  Nivel α        : 0.05
+  Resultado      : No se puede rechazar H0 — diferencia NO significativa.
+
+  Tamaño del efecto (d de Cohen): -0.4427
+  Interpretación: mediano (0.2–0.8)
+
+── 3. Interpretación ───────────────────────────────────
+
+  La diferencia observada (-0.32%) no es estadísticamente
+  significativa (p = 0.348037 ≥ 0.05).
+  El daemon ML no produjo un impacto medible en el tiempo de ejecución
+  bajo las condiciones de este experimento.
+
+════════════════════════════════════════════════════════════

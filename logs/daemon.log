@@ -1,0 +1,460 @@
+[2026-06-09 12:57:30] [INFO] ═══════════════════════════════════════════════════════
+[2026-06-09 12:57:30] [INFO] Daemon ML iniciado.
+[2026-06-09 12:57:30] [INFO] Modelo     : /home/telematica/Escritorio/SO-ML/modelo/arbol.pkl
+[2026-06-09 12:57:30] [INFO] Intervalo  : 2s
+[2026-06-09 12:57:30] [INFO] Top procs  : 3
+[2026-06-09 12:57:30] [INFO] ═══════════════════════════════════════════════════════
+[2026-06-09 12:57:31] [INFO] CPU:  0.7%  MEM: 22.3%  PROCS:274  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:31] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:57:33] [INFO] CPU:  0.5%  MEM: 22.2%  PROCS:274  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:33] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:57:35] [INFO] CPU:  0.5%  MEM: 22.1%  PROCS:274  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:35] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:57:37] [INFO] CPU:  7.0%  MEM: 22.2%  PROCS:274  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:37] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:57:39] [INFO] CPU: 18.6%  MEM: 22.2%  PROCS:274  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:39] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:57:41] [INFO] CPU: 13.9%  MEM: 22.3%  PROCS:274  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:41] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:57:43] [INFO] CPU: 12.4%  MEM: 22.3%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:43] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:57:45] [INFO] CPU: 45.5%  MEM: 23.5%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:45] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:57:47] [INFO] CPU: 17.5%  MEM: 23.5%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:47] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:57:49] [INFO] CPU:  3.4%  MEM: 23.2%  PROCS:280  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:49] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:57:51] [INFO] CPU:  1.3%  MEM: 23.1%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:51] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:57:53] [INFO] CPU:  0.7%  MEM: 23.1%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:53] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:57:55] [INFO] CPU:  0.5%  MEM: 23.0%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:55] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:57:57] [INFO] CPU:  7.0%  MEM: 23.0%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:57] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:57:59] [INFO] CPU:  0.7%  MEM: 22.8%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 12:57:59] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:01] [INFO] CPU:  0.7%  MEM: 22.7%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:01] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:03] [INFO] CPU:  1.5%  MEM: 22.7%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:03] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:05] [INFO] CPU: 28.5%  MEM: 23.6%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:05] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:07] [INFO] CPU:100.0%  MEM: 25.2%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:07] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:09] [INFO] CPU:100.0%  MEM: 25.4%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:09] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:11] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:11] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:13] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:13] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:15] [INFO] CPU:100.0%  MEM: 25.4%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:15] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:17] [INFO] CPU:100.0%  MEM: 24.4%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:17] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:19] [INFO] CPU:100.0%  MEM: 24.9%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:19] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:21] [INFO] CPU: 99.7%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:21] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:23] [INFO] CPU:100.0%  MEM: 25.2%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:23] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:25] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:25] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:27] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:27] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:29] [INFO] CPU:100.0%  MEM: 24.3%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:29] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:31] [INFO] CPU:100.0%  MEM: 24.8%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:31] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:33] [INFO] CPU:100.0%  MEM: 24.6%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:33] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:35] [INFO] CPU: 75.3%  MEM: 23.9%  PROCS:277  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:35] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:37] [INFO] CPU:  1.2%  MEM: 23.6%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:37] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:39] [INFO] CPU:  0.7%  MEM: 23.3%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:39] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:41] [INFO] CPU:  0.7%  MEM: 23.0%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:41] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:43] [INFO] CPU:  0.5%  MEM: 22.9%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:43] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:45] [INFO] CPU:  0.8%  MEM: 22.8%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:45] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:47] [INFO] CPU: 28.2%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:47] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:49] [INFO] CPU:100.0%  MEM: 24.2%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:49] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:51] [INFO] CPU:100.0%  MEM: 23.2%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:51] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:53] [INFO] CPU: 99.8%  MEM: 23.8%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:53] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:55] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:55] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:57] [INFO] CPU:100.0%  MEM: 25.0%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:57] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:58:59] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:58:59] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:01] [INFO] CPU:100.0%  MEM: 24.9%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:01] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:03] [INFO] CPU:100.0%  MEM: 24.3%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:03] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:05] [INFO] CPU:100.0%  MEM: 24.4%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:05] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:07] [INFO] CPU:100.0%  MEM: 24.2%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:07] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:09] [INFO] CPU:100.0%  MEM: 24.9%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:09] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:11] [INFO] CPU:100.0%  MEM: 25.1%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:11] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:13] [INFO] CPU: 99.7%  MEM: 23.7%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:13] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:15] [INFO] CPU:100.0%  MEM: 24.9%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:15] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:17] [INFO] CPU: 69.0%  MEM: 23.6%  PROCS:277  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:17] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:19] [INFO] CPU:  0.5%  MEM: 23.4%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:19] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:21] [INFO] CPU:  1.0%  MEM: 23.0%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:21] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:23] [INFO] CPU:  0.5%  MEM: 22.9%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:23] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:25] [INFO] CPU:  0.8%  MEM: 22.7%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:25] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:27] [INFO] CPU:  0.8%  MEM: 22.6%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:27] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:29] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:29] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:32] [INFO] CPU: 99.7%  MEM: 23.3%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:32] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:34] [INFO] CPU:100.0%  MEM: 23.0%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:34] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:36] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:36] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:38] [INFO] CPU:100.0%  MEM: 23.5%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:38] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:40] [INFO] CPU:100.0%  MEM: 24.8%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:40] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:42] [INFO] CPU:100.0%  MEM: 23.5%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:42] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:44] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:44] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:46] [INFO] CPU:100.0%  MEM: 24.2%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:46] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:48] [INFO] CPU:100.0%  MEM: 23.6%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:48] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:50] [INFO] CPU:100.0%  MEM: 24.0%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:50] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:52] [INFO] CPU:100.0%  MEM: 23.8%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:52] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:54] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:54] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:56] [INFO] CPU: 99.8%  MEM: 25.3%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:56] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 12:59:58] [INFO] CPU:100.0%  MEM: 24.8%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 12:59:58] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:00] [INFO] CPU:  1.0%  MEM: 23.2%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:00] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:02] [INFO] CPU:  0.5%  MEM: 23.1%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:02] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:04] [INFO] CPU:  1.0%  MEM: 22.8%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:04] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:06] [INFO] CPU:  0.8%  MEM: 22.6%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:06] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:08] [INFO] CPU:  0.5%  MEM: 22.5%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:08] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:10] [INFO] CPU: 41.3%  MEM: 24.4%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:10] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:12] [INFO] CPU:100.0%  MEM: 23.4%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:12] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:14] [INFO] CPU:100.0%  MEM: 23.8%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:14] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:16] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:16] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:18] [INFO] CPU:100.0%  MEM: 24.6%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:18] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:20] [INFO] CPU:100.0%  MEM: 24.5%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:20] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:22] [INFO] CPU:100.0%  MEM: 23.5%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:22] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:24] [INFO] CPU:100.0%  MEM: 23.6%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:24] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:26] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:26] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:28] [INFO] CPU:100.0%  MEM: 24.8%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:28] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:30] [INFO] CPU:100.0%  MEM: 25.3%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:30] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:32] [INFO] CPU:100.0%  MEM: 23.1%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:32] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:34] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:34] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:36] [INFO] CPU:100.0%  MEM: 25.4%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:36] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:38] [INFO] CPU:100.0%  MEM: 24.3%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:38] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:40] [INFO] CPU: 56.7%  MEM: 23.5%  PROCS:277  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:40] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:42] [INFO] CPU:  0.8%  MEM: 23.3%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:42] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:44] [INFO] CPU:  0.7%  MEM: 22.9%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:44] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:46] [INFO] CPU:  0.8%  MEM: 22.7%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:46] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:48] [INFO] CPU:  1.0%  MEM: 22.6%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:48] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:50] [INFO] CPU:  0.5%  MEM: 22.5%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:50] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:52] [INFO] CPU:100.0%  MEM: 22.8%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:52] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:54] [INFO] CPU:100.0%  MEM: 24.5%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:54] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:56] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:56] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:00:58] [INFO] CPU:100.0%  MEM: 23.4%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:00:58] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:00] [INFO] CPU:100.0%  MEM: 24.4%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:00] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:02] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:02] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:04] [INFO] CPU:100.0%  MEM: 23.6%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:04] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:06] [INFO] CPU:100.0%  MEM: 23.4%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:06] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:08] [INFO] CPU:100.0%  MEM: 24.9%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:08] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:10] [INFO] CPU: 99.7%  MEM: 22.8%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:10] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:12] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:12] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:14] [INFO] CPU:100.0%  MEM: 24.5%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:14] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:16] [INFO] CPU:100.0%  MEM: 25.3%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:16] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:18] [INFO] CPU:100.0%  MEM: 24.8%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:18] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:20] [INFO] CPU: 99.8%  MEM: 23.5%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:20] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:22] [INFO] CPU:  1.3%  MEM: 22.5%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:22] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:24] [INFO] CPU:  0.5%  MEM: 22.3%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:24] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:26] [INFO] CPU:  0.8%  MEM: 22.3%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:26] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:28] [INFO] CPU:  0.7%  MEM: 22.2%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:28] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:30] [INFO] CPU:  0.5%  MEM: 22.3%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:30] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:32] [INFO] CPU: 47.7%  MEM: 23.6%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:32] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:34] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:34] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:36] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:36] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:38] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:38] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:40] [INFO] CPU:100.0%  MEM: 25.0%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:40] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:42] [INFO] CPU:100.0%  MEM: 25.1%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:42] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:44] [INFO] CPU: 99.7%  MEM: 24.4%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:44] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:46] [INFO] CPU: 99.8%  MEM: 23.2%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:46] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:48] [INFO] CPU:100.0%  MEM: 23.3%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:48] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:50] [INFO] CPU:100.0%  MEM: 23.5%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:50] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:52] [INFO] CPU:100.0%  MEM: 23.5%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:52] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:54] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:54] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:56] [INFO] CPU: 99.7%  MEM: 24.3%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:56] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:01:58] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:01:58] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:00] [INFO] CPU:100.0%  MEM: 24.3%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:00] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:02] [INFO] CPU: 50.8%  MEM: 23.1%  PROCS:277  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:02] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:04] [INFO] CPU:  0.7%  MEM: 23.0%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:04] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:06] [INFO] CPU:  5.2%  MEM: 22.8%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:06] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:08] [INFO] CPU:  0.7%  MEM: 22.7%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:08] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:10] [INFO] CPU: 10.0%  MEM: 22.5%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:10] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:12] [INFO] CPU:  0.5%  MEM: 22.3%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:12] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:14] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:14] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:16] [INFO] CPU:100.0%  MEM: 22.4%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:16] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:18] [INFO] CPU:100.0%  MEM: 24.0%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:18] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:20] [INFO] CPU:100.0%  MEM: 23.5%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:20] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:22] [INFO] CPU:100.0%  MEM: 23.2%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:22] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:24] [INFO] CPU: 99.7%  MEM: 24.2%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:24] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:26] [INFO] CPU:100.0%  MEM: 22.9%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:26] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:28] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:28] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:30] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:30] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:32] [INFO] CPU:100.0%  MEM: 24.6%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:32] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:34] [INFO] CPU:100.0%  MEM: 25.6%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:34] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:36] [INFO] CPU: 99.8%  MEM: 24.7%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:36] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:38] [INFO] CPU:100.0%  MEM: 24.6%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:38] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:40] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:40] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:42] [INFO] CPU:100.0%  MEM: 25.1%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:42] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:44] [INFO] CPU:  0.7%  MEM: 23.1%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:44] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:46] [INFO] CPU:  0.7%  MEM: 23.0%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:46] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:48] [INFO] CPU:  0.7%  MEM: 22.7%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:48] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:50] [INFO] CPU:  1.0%  MEM: 22.5%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:50] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:52] [INFO] CPU:  2.2%  MEM: 22.6%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:52] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:54] [INFO] CPU:  1.0%  MEM: 22.5%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:54] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:56] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:56] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:02:58] [INFO] CPU:100.0%  MEM: 23.3%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:02:58] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:00] [INFO] CPU:100.0%  MEM: 24.8%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:00] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:02] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:02] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:04] [INFO] CPU:100.0%  MEM: 23.6%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:04] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:06] [INFO] CPU:100.0%  MEM: 24.9%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:06] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:08] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:08] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:10] [INFO] CPU:100.0%  MEM: 25.5%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:10] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:12] [INFO] CPU:100.0%  MEM: 24.3%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:12] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:14] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:14] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:16] [INFO] CPU:100.0%  MEM: 24.2%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:16] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:18] [INFO] CPU:100.0%  MEM: 23.2%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:18] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:20] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:20] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:22] [INFO] CPU:100.0%  MEM: 23.4%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:22] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:24] [INFO] CPU:100.0%  MEM: 23.4%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:24] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:26] [INFO] CPU:  1.3%  MEM: 22.5%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:26] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:28] [INFO] CPU:  0.8%  MEM: 22.5%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:28] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:30] [INFO] CPU:  0.7%  MEM: 22.5%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:30] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:32] [INFO] CPU:  0.8%  MEM: 22.4%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:32] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:34] [INFO] CPU:  1.0%  MEM: 22.2%  PROCS:275  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:34] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:36] [INFO] CPU: 60.3%  MEM: 22.7%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:36] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:38] [INFO] CPU:100.0%  MEM: 23.0%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:38] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:40] [INFO] CPU:100.0%  MEM: 23.8%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:40] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:42] [INFO] CPU:100.0%  MEM: 24.8%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:42] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:44] [INFO] CPU:100.0%  MEM: 24.2%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:44] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:46] [INFO] CPU:100.0%  MEM: 25.2%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:46] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:48] [INFO] CPU:100.0%  MEM: 24.5%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:48] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:50] [INFO] CPU:100.0%  MEM: 24.5%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:50] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:52] [INFO] CPU:100.0%  MEM: 25.9%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:52] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:54] [INFO] CPU:100.0%  MEM: 24.4%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:54] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:56] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:56] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:03:58] [INFO] CPU:100.0%  MEM: 23.8%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:03:58] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:00] [INFO] CPU:100.0%  MEM: 24.9%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:00] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:02] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:02] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:04] [INFO] CPU: 99.7%  MEM: 23.1%  PROCS:282  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:04] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:06] [INFO] CPU: 36.3%  MEM: 23.2%  PROCS:277  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:06] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:08] [INFO] CPU:  0.8%  MEM: 23.0%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:08] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:10] [INFO] CPU:  0.7%  MEM: 22.8%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:10] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:12] [INFO] CPU:  0.8%  MEM: 22.6%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:12] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:14] [INFO] CPU:  1.3%  MEM: 22.5%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:14] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:16] [INFO] CPU:  0.8%  MEM: 22.4%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:16] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:18] [INFO] CPU: 64.0%  MEM: 23.0%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:18] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:20] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:20] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:22] [INFO] CPU: 99.8%  MEM: 23.1%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:22] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:24] [INFO] CPU:100.0%  MEM: 22.8%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:24] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:26] [INFO] CPU:100.0%  MEM: 23.3%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:26] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:28] [INFO] CPU: 99.8%  MEM: 23.4%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:28] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:30] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:283  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:30] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:32] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:284  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:32] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:34] [INFO] CPU:100.0%  MEM: 22.9%  PROCS:284  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:34] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:36] [INFO] CPU:100.0%  MEM: 23.3%  PROCS:284  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:36] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:38] [INFO] CPU:100.0%  MEM: 23.5%  PROCS:284  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:38] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:40] [INFO] CPU:100.0%  MEM: 23.0%  PROCS:284  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:40] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:42] [INFO] CPU: 99.8%  MEM: 25.0%  PROCS:284  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:42] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:44] [INFO] CPU: 99.7%  MEM: 24.7%  PROCS:284  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:44] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:46] [INFO] CPU:100.0%  MEM: 25.2%  PROCS:284  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:46] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:48] [INFO] CPU: 32.4%  MEM: 23.4%  PROCS:278  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:48] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:50] [INFO] CPU:  0.7%  MEM: 23.3%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:50] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:52] [INFO] CPU:  1.7%  MEM: 23.2%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:52] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:54] [INFO] CPU:  7.4%  MEM: 22.5%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:54] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:56] [INFO] CPU:  6.9%  MEM: 22.4%  PROCS:276  →  LIGERA     (100% confianza)
+[2026-06-09 13:04:56] [INFO]   Sin intervención — sistema estable.
+[2026-06-09 13:04:58] [INFO] 
+Daemon detenido manualmente (Ctrl+C).
+[2026-06-09 13:04:58] [INFO] ═══════════════════════════════════════════════════════
+[2026-06-09 13:04:58] [INFO] Resumen — 223 ciclos en 447s
+[2026-06-09 13:04:58] [INFO]   Ligera  : 223 ciclos
+[2026-06-09 13:04:58] [INFO]   Moderada: 0 ciclos
+[2026-06-09 13:04:58] [INFO]   Pesada  : 0 ciclos
+[2026-06-09 13:04:58] [INFO] ═══════════════════════════════════════════════════════
