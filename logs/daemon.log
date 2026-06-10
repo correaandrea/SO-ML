@@ -1,460 +1,478 @@
-[2026-06-09 12:57:30] [INFO] ═══════════════════════════════════════════════════════
-[2026-06-09 12:57:30] [INFO] Daemon ML iniciado.
-[2026-06-09 12:57:30] [INFO] Modelo     : /home/telematica/Escritorio/SO-ML/modelo/arbol.pkl
-[2026-06-09 12:57:30] [INFO] Intervalo  : 2s
-[2026-06-09 12:57:30] [INFO] Top procs  : 3
-[2026-06-09 12:57:30] [INFO] ═══════════════════════════════════════════════════════
-[2026-06-09 12:57:31] [INFO] CPU:  0.7%  MEM: 22.3%  PROCS:274  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:31] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:57:33] [INFO] CPU:  0.5%  MEM: 22.2%  PROCS:274  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:33] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:57:35] [INFO] CPU:  0.5%  MEM: 22.1%  PROCS:274  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:35] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:57:37] [INFO] CPU:  7.0%  MEM: 22.2%  PROCS:274  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:37] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:57:39] [INFO] CPU: 18.6%  MEM: 22.2%  PROCS:274  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:39] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:57:41] [INFO] CPU: 13.9%  MEM: 22.3%  PROCS:274  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:41] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:57:43] [INFO] CPU: 12.4%  MEM: 22.3%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:43] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:57:45] [INFO] CPU: 45.5%  MEM: 23.5%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:45] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:57:47] [INFO] CPU: 17.5%  MEM: 23.5%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:47] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:57:49] [INFO] CPU:  3.4%  MEM: 23.2%  PROCS:280  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:49] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:57:51] [INFO] CPU:  1.3%  MEM: 23.1%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:51] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:57:53] [INFO] CPU:  0.7%  MEM: 23.1%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:53] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:57:55] [INFO] CPU:  0.5%  MEM: 23.0%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:55] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:57:57] [INFO] CPU:  7.0%  MEM: 23.0%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:57] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:57:59] [INFO] CPU:  0.7%  MEM: 22.8%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 12:57:59] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:01] [INFO] CPU:  0.7%  MEM: 22.7%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:01] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:03] [INFO] CPU:  1.5%  MEM: 22.7%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:03] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:05] [INFO] CPU: 28.5%  MEM: 23.6%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:05] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:07] [INFO] CPU:100.0%  MEM: 25.2%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:07] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:09] [INFO] CPU:100.0%  MEM: 25.4%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:09] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:11] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:11] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:13] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:13] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:15] [INFO] CPU:100.0%  MEM: 25.4%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:15] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:17] [INFO] CPU:100.0%  MEM: 24.4%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:17] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:19] [INFO] CPU:100.0%  MEM: 24.9%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:19] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:21] [INFO] CPU: 99.7%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:21] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:23] [INFO] CPU:100.0%  MEM: 25.2%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:23] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:25] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:25] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:27] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:27] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:29] [INFO] CPU:100.0%  MEM: 24.3%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:29] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:31] [INFO] CPU:100.0%  MEM: 24.8%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:31] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:33] [INFO] CPU:100.0%  MEM: 24.6%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:33] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:35] [INFO] CPU: 75.3%  MEM: 23.9%  PROCS:277  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:35] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:37] [INFO] CPU:  1.2%  MEM: 23.6%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:37] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:39] [INFO] CPU:  0.7%  MEM: 23.3%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:39] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:41] [INFO] CPU:  0.7%  MEM: 23.0%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:41] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:43] [INFO] CPU:  0.5%  MEM: 22.9%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:43] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:45] [INFO] CPU:  0.8%  MEM: 22.8%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:45] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:47] [INFO] CPU: 28.2%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:47] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:49] [INFO] CPU:100.0%  MEM: 24.2%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:49] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:51] [INFO] CPU:100.0%  MEM: 23.2%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:51] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:53] [INFO] CPU: 99.8%  MEM: 23.8%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:53] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:55] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:55] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:57] [INFO] CPU:100.0%  MEM: 25.0%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:57] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:58:59] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:58:59] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:01] [INFO] CPU:100.0%  MEM: 24.9%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:01] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:03] [INFO] CPU:100.0%  MEM: 24.3%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:03] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:05] [INFO] CPU:100.0%  MEM: 24.4%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:05] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:07] [INFO] CPU:100.0%  MEM: 24.2%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:07] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:09] [INFO] CPU:100.0%  MEM: 24.9%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:09] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:11] [INFO] CPU:100.0%  MEM: 25.1%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:11] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:13] [INFO] CPU: 99.7%  MEM: 23.7%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:13] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:15] [INFO] CPU:100.0%  MEM: 24.9%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:15] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:17] [INFO] CPU: 69.0%  MEM: 23.6%  PROCS:277  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:17] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:19] [INFO] CPU:  0.5%  MEM: 23.4%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:19] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:21] [INFO] CPU:  1.0%  MEM: 23.0%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:21] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:23] [INFO] CPU:  0.5%  MEM: 22.9%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:23] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:25] [INFO] CPU:  0.8%  MEM: 22.7%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:25] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:27] [INFO] CPU:  0.8%  MEM: 22.6%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:27] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:29] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:29] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:32] [INFO] CPU: 99.7%  MEM: 23.3%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:32] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:34] [INFO] CPU:100.0%  MEM: 23.0%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:34] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:36] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:36] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:38] [INFO] CPU:100.0%  MEM: 23.5%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:38] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:40] [INFO] CPU:100.0%  MEM: 24.8%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:40] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:42] [INFO] CPU:100.0%  MEM: 23.5%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:42] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:44] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:44] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:46] [INFO] CPU:100.0%  MEM: 24.2%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:46] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:48] [INFO] CPU:100.0%  MEM: 23.6%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:48] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:50] [INFO] CPU:100.0%  MEM: 24.0%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:50] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:52] [INFO] CPU:100.0%  MEM: 23.8%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:52] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:54] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:54] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:56] [INFO] CPU: 99.8%  MEM: 25.3%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:56] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 12:59:58] [INFO] CPU:100.0%  MEM: 24.8%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 12:59:58] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:00] [INFO] CPU:  1.0%  MEM: 23.2%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:00] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:02] [INFO] CPU:  0.5%  MEM: 23.1%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:02] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:04] [INFO] CPU:  1.0%  MEM: 22.8%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:04] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:06] [INFO] CPU:  0.8%  MEM: 22.6%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:06] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:08] [INFO] CPU:  0.5%  MEM: 22.5%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:08] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:10] [INFO] CPU: 41.3%  MEM: 24.4%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:10] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:12] [INFO] CPU:100.0%  MEM: 23.4%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:12] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:14] [INFO] CPU:100.0%  MEM: 23.8%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:14] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:16] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:16] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:18] [INFO] CPU:100.0%  MEM: 24.6%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:18] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:20] [INFO] CPU:100.0%  MEM: 24.5%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:20] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:22] [INFO] CPU:100.0%  MEM: 23.5%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:22] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:24] [INFO] CPU:100.0%  MEM: 23.6%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:24] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:26] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:26] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:28] [INFO] CPU:100.0%  MEM: 24.8%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:28] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:30] [INFO] CPU:100.0%  MEM: 25.3%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:30] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:32] [INFO] CPU:100.0%  MEM: 23.1%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:32] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:34] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:34] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:36] [INFO] CPU:100.0%  MEM: 25.4%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:36] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:38] [INFO] CPU:100.0%  MEM: 24.3%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:38] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:40] [INFO] CPU: 56.7%  MEM: 23.5%  PROCS:277  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:40] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:42] [INFO] CPU:  0.8%  MEM: 23.3%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:42] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:44] [INFO] CPU:  0.7%  MEM: 22.9%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:44] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:46] [INFO] CPU:  0.8%  MEM: 22.7%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:46] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:48] [INFO] CPU:  1.0%  MEM: 22.6%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:48] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:50] [INFO] CPU:  0.5%  MEM: 22.5%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:50] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:52] [INFO] CPU:100.0%  MEM: 22.8%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:52] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:54] [INFO] CPU:100.0%  MEM: 24.5%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:54] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:56] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:56] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:00:58] [INFO] CPU:100.0%  MEM: 23.4%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:00:58] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:00] [INFO] CPU:100.0%  MEM: 24.4%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:00] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:02] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:02] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:04] [INFO] CPU:100.0%  MEM: 23.6%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:04] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:06] [INFO] CPU:100.0%  MEM: 23.4%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:06] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:08] [INFO] CPU:100.0%  MEM: 24.9%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:08] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:10] [INFO] CPU: 99.7%  MEM: 22.8%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:10] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:12] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:12] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:14] [INFO] CPU:100.0%  MEM: 24.5%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:14] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:16] [INFO] CPU:100.0%  MEM: 25.3%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:16] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:18] [INFO] CPU:100.0%  MEM: 24.8%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:18] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:20] [INFO] CPU: 99.8%  MEM: 23.5%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:20] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:22] [INFO] CPU:  1.3%  MEM: 22.5%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:22] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:24] [INFO] CPU:  0.5%  MEM: 22.3%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:24] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:26] [INFO] CPU:  0.8%  MEM: 22.3%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:26] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:28] [INFO] CPU:  0.7%  MEM: 22.2%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:28] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:30] [INFO] CPU:  0.5%  MEM: 22.3%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:30] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:32] [INFO] CPU: 47.7%  MEM: 23.6%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:32] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:34] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:34] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:36] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:36] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:38] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:38] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:40] [INFO] CPU:100.0%  MEM: 25.0%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:40] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:42] [INFO] CPU:100.0%  MEM: 25.1%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:42] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:44] [INFO] CPU: 99.7%  MEM: 24.4%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:44] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:46] [INFO] CPU: 99.8%  MEM: 23.2%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:46] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:48] [INFO] CPU:100.0%  MEM: 23.3%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:48] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:50] [INFO] CPU:100.0%  MEM: 23.5%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:50] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:52] [INFO] CPU:100.0%  MEM: 23.5%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:52] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:54] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:54] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:56] [INFO] CPU: 99.7%  MEM: 24.3%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:56] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:01:58] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:01:58] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:00] [INFO] CPU:100.0%  MEM: 24.3%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:00] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:02] [INFO] CPU: 50.8%  MEM: 23.1%  PROCS:277  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:02] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:04] [INFO] CPU:  0.7%  MEM: 23.0%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:04] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:06] [INFO] CPU:  5.2%  MEM: 22.8%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:06] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:08] [INFO] CPU:  0.7%  MEM: 22.7%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:08] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:10] [INFO] CPU: 10.0%  MEM: 22.5%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:10] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:12] [INFO] CPU:  0.5%  MEM: 22.3%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:12] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:14] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:14] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:16] [INFO] CPU:100.0%  MEM: 22.4%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:16] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:18] [INFO] CPU:100.0%  MEM: 24.0%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:18] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:20] [INFO] CPU:100.0%  MEM: 23.5%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:20] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:22] [INFO] CPU:100.0%  MEM: 23.2%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:22] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:24] [INFO] CPU: 99.7%  MEM: 24.2%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:24] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:26] [INFO] CPU:100.0%  MEM: 22.9%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:26] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:28] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:28] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:30] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:30] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:32] [INFO] CPU:100.0%  MEM: 24.6%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:32] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:34] [INFO] CPU:100.0%  MEM: 25.6%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:34] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:36] [INFO] CPU: 99.8%  MEM: 24.7%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:36] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:38] [INFO] CPU:100.0%  MEM: 24.6%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:38] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:40] [INFO] CPU:100.0%  MEM: 23.9%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:40] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:42] [INFO] CPU:100.0%  MEM: 25.1%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:42] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:44] [INFO] CPU:  0.7%  MEM: 23.1%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:44] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:46] [INFO] CPU:  0.7%  MEM: 23.0%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:46] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:48] [INFO] CPU:  0.7%  MEM: 22.7%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:48] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:50] [INFO] CPU:  1.0%  MEM: 22.5%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:50] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:52] [INFO] CPU:  2.2%  MEM: 22.6%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:52] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:54] [INFO] CPU:  1.0%  MEM: 22.5%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:54] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:56] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:56] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:02:58] [INFO] CPU:100.0%  MEM: 23.3%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:02:58] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:00] [INFO] CPU:100.0%  MEM: 24.8%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:00] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:02] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:02] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:04] [INFO] CPU:100.0%  MEM: 23.6%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:04] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:06] [INFO] CPU:100.0%  MEM: 24.9%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:06] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:08] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:08] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:10] [INFO] CPU:100.0%  MEM: 25.5%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:10] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:12] [INFO] CPU:100.0%  MEM: 24.3%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:12] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:14] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:14] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:16] [INFO] CPU:100.0%  MEM: 24.2%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:16] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:18] [INFO] CPU:100.0%  MEM: 23.2%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:18] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:20] [INFO] CPU:100.0%  MEM: 24.1%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:20] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:22] [INFO] CPU:100.0%  MEM: 23.4%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:22] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:24] [INFO] CPU:100.0%  MEM: 23.4%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:24] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:26] [INFO] CPU:  1.3%  MEM: 22.5%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:26] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:28] [INFO] CPU:  0.8%  MEM: 22.5%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:28] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:30] [INFO] CPU:  0.7%  MEM: 22.5%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:30] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:32] [INFO] CPU:  0.8%  MEM: 22.4%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:32] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:34] [INFO] CPU:  1.0%  MEM: 22.2%  PROCS:275  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:34] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:36] [INFO] CPU: 60.3%  MEM: 22.7%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:36] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:38] [INFO] CPU:100.0%  MEM: 23.0%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:38] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:40] [INFO] CPU:100.0%  MEM: 23.8%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:40] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:42] [INFO] CPU:100.0%  MEM: 24.8%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:42] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:44] [INFO] CPU:100.0%  MEM: 24.2%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:44] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:46] [INFO] CPU:100.0%  MEM: 25.2%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:46] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:48] [INFO] CPU:100.0%  MEM: 24.5%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:48] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:50] [INFO] CPU:100.0%  MEM: 24.5%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:50] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:52] [INFO] CPU:100.0%  MEM: 25.9%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:52] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:54] [INFO] CPU:100.0%  MEM: 24.4%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:54] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:56] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:56] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:03:58] [INFO] CPU:100.0%  MEM: 23.8%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:03:58] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:00] [INFO] CPU:100.0%  MEM: 24.9%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:00] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:02] [INFO] CPU:100.0%  MEM: 24.7%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:02] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:04] [INFO] CPU: 99.7%  MEM: 23.1%  PROCS:282  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:04] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:06] [INFO] CPU: 36.3%  MEM: 23.2%  PROCS:277  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:06] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:08] [INFO] CPU:  0.8%  MEM: 23.0%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:08] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:10] [INFO] CPU:  0.7%  MEM: 22.8%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:10] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:12] [INFO] CPU:  0.8%  MEM: 22.6%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:12] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:14] [INFO] CPU:  1.3%  MEM: 22.5%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:14] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:16] [INFO] CPU:  0.8%  MEM: 22.4%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:16] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:18] [INFO] CPU: 64.0%  MEM: 23.0%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:18] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:20] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:20] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:22] [INFO] CPU: 99.8%  MEM: 23.1%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:22] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:24] [INFO] CPU:100.0%  MEM: 22.8%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:24] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:26] [INFO] CPU:100.0%  MEM: 23.3%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:26] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:28] [INFO] CPU: 99.8%  MEM: 23.4%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:28] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:30] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:283  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:30] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:32] [INFO] CPU:100.0%  MEM: 23.7%  PROCS:284  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:32] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:34] [INFO] CPU:100.0%  MEM: 22.9%  PROCS:284  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:34] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:36] [INFO] CPU:100.0%  MEM: 23.3%  PROCS:284  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:36] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:38] [INFO] CPU:100.0%  MEM: 23.5%  PROCS:284  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:38] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:40] [INFO] CPU:100.0%  MEM: 23.0%  PROCS:284  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:40] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:42] [INFO] CPU: 99.8%  MEM: 25.0%  PROCS:284  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:42] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:44] [INFO] CPU: 99.7%  MEM: 24.7%  PROCS:284  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:44] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:46] [INFO] CPU:100.0%  MEM: 25.2%  PROCS:284  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:46] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:48] [INFO] CPU: 32.4%  MEM: 23.4%  PROCS:278  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:48] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:50] [INFO] CPU:  0.7%  MEM: 23.3%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:50] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:52] [INFO] CPU:  1.7%  MEM: 23.2%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:52] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:54] [INFO] CPU:  7.4%  MEM: 22.5%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:54] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:56] [INFO] CPU:  6.9%  MEM: 22.4%  PROCS:276  →  LIGERA     (100% confianza)
-[2026-06-09 13:04:56] [INFO]   Sin intervención — sistema estable.
-[2026-06-09 13:04:58] [INFO] 
+[2026-06-10 10:40:38] [INFO] ═══════════════════════════════════════════════════════
+[2026-06-10 10:40:38] [INFO] Daemon ML iniciado.
+[2026-06-10 10:40:38] [INFO] Modelo     : /mnt/c/Users/Usuario/Desktop/SO-ML/modelo/arbol.pkl
+[2026-06-10 10:40:38] [INFO] Intervalo  : 2s
+[2026-06-10 10:40:38] [INFO] Top procs  : 3
+[2026-06-10 10:40:38] [INFO] ═══════════════════════════════════════════════════════
+[2026-06-10 10:40:39] [INFO] CPU:  0.0%  MEM:  9.2%  PROCS:34  →  MODERADA   (100% confianza)
+[2026-06-10 10:40:39] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:40:41] [INFO] CPU:  0.0%  MEM:  9.2%  PROCS:33  →  MODERADA   (100% confianza)
+[2026-06-10 10:40:41] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:40:43] [INFO] CPU:  0.1%  MEM:  9.2%  PROCS:30  →  MODERADA   (100% confianza)
+[2026-06-10 10:40:43] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:40:45] [INFO] CPU:  0.3%  MEM:  9.3%  PROCS:30  →  MODERADA   (100% confianza)
+[2026-06-10 10:40:45] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:40:47] [INFO] CPU:  0.0%  MEM:  9.2%  PROCS:30  →  MODERADA   (100% confianza)
+[2026-06-10 10:40:47] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:40:49] [INFO] CPU:  0.1%  MEM:  9.2%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:40:49] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:40:51] [INFO] CPU:  0.0%  MEM:  9.2%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:40:51] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:40:53] [INFO] CPU:  0.0%  MEM:  9.2%  PROCS:32  →  MODERADA   (100% confianza)
+[2026-06-10 10:40:53] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:40:55] [INFO] CPU:  0.0%  MEM:  9.2%  PROCS:32  →  MODERADA   (100% confianza)
+[2026-06-10 10:40:55] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:40:57] [INFO] CPU:  0.0%  MEM:  9.2%  PROCS:31  →  MODERADA   (100% confianza)
+[2026-06-10 10:40:57] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:40:59] [INFO] CPU:  0.0%  MEM:  9.2%  PROCS:31  →  MODERADA   (100% confianza)
+[2026-06-10 10:40:59] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:01] [INFO] CPU: 49.2%  MEM: 11.6%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:01] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:03] [INFO] CPU:100.0%  MEM: 13.6%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:03] [INFO]   Procesos pesados detectados: python(894)
+[2026-06-10 10:41:03] [INFO]   renice PID 894 (python) nice 0 → 10  CPU:1.0%
+[2026-06-10 10:41:03] [INFO]   Procesos modificados: 1
+[2026-06-10 10:41:05] [INFO] CPU:100.0%  MEM: 15.5%  PROCS:45  →  PESADA     (100% confianza)
+[2026-06-10 10:41:05] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:07] [INFO] CPU: 99.8%  MEM: 10.8%  PROCS:45  →  PESADA     (100% confianza)
+[2026-06-10 10:41:07] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:09] [INFO] CPU: 99.6%  MEM: 11.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:10] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:12] [INFO] CPU:100.0%  MEM: 13.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:12] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:14] [INFO] CPU: 99.8%  MEM: 10.8%  PROCS:45  →  PESADA     (100% confianza)
+[2026-06-10 10:41:14] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:16] [INFO] CPU: 99.6%  MEM: 15.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:16] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:18] [INFO] CPU: 99.8%  MEM: 14.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:18] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:20] [INFO] CPU: 99.6%  MEM: 11.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:20] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:22] [INFO] CPU:100.0%  MEM: 16.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:22] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:24] [INFO] CPU: 99.7%  MEM: 11.1%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:24] [INFO]   Procesos pesados detectados: python(894)
+[2026-06-10 10:41:24] [INFO]   Procesos modificados: 0
+[2026-06-10 10:41:26] [INFO] CPU: 99.6%  MEM: 15.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:26] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:28] [INFO] CPU:100.0%  MEM: 14.6%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:28] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:30] [INFO] CPU: 99.7%  MEM: 12.8%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:31] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:33] [INFO] CPU:  0.2%  MEM: 10.9%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:41:33] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:35] [INFO] CPU:  0.0%  MEM: 10.8%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:41:35] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:37] [INFO] CPU:  0.1%  MEM: 10.6%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:41:37] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:39] [INFO] CPU:  0.0%  MEM: 10.4%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:41:39] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:41] [INFO] CPU:  0.0%  MEM: 10.1%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:41:41] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:43] [INFO] CPU: 84.2%  MEM: 11.3%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:43] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:45] [INFO] CPU: 99.8%  MEM: 12.5%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:45] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:47] [INFO] CPU: 99.7%  MEM: 10.8%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:47] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:49] [INFO] CPU: 99.8%  MEM: 13.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:49] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:51] [INFO] CPU: 99.9%  MEM: 14.5%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:51] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:53] [INFO] CPU: 99.6%  MEM: 11.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:53] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:55] [INFO] CPU: 99.6%  MEM: 16.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:56] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:41:58] [INFO] CPU: 99.6%  MEM: 13.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:41:58] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:00] [INFO] CPU: 99.9%  MEM: 12.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:00] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:02] [INFO] CPU:100.0%  MEM: 13.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:02] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:04] [INFO] CPU: 99.6%  MEM: 11.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:04] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:06] [INFO] CPU:100.0%  MEM: 12.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:06] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:08] [INFO] CPU: 99.4%  MEM: 14.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:08] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:10] [INFO] CPU: 99.7%  MEM: 14.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:10] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:12] [INFO] CPU: 36.0%  MEM: 10.8%  PROCS:29  →  MODERADA   (100% confianza)
+[2026-06-10 10:42:12] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:14] [INFO] CPU:  0.0%  MEM: 10.6%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:42:14] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:16] [INFO] CPU:  0.0%  MEM: 10.5%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:42:16] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:18] [INFO] CPU:  0.0%  MEM: 10.2%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:42:19] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:21] [INFO] CPU:  0.2%  MEM: 10.0%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:42:21] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:23] [INFO] CPU:  0.0%  MEM:  9.8%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:42:23] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:25] [INFO] CPU: 67.6%  MEM: 11.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:25] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:27] [INFO] CPU: 99.6%  MEM: 11.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:27] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:29] [INFO] CPU: 99.8%  MEM: 14.1%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:29] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:31] [INFO] CPU: 99.6%  MEM: 15.5%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:31] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:33] [INFO] CPU:100.0%  MEM: 15.8%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:33] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:35] [INFO] CPU: 99.7%  MEM: 11.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:35] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:37] [INFO] CPU: 99.3%  MEM: 12.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:37] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:39] [INFO] CPU: 99.7%  MEM: 10.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:39] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:41] [INFO] CPU: 99.8%  MEM: 13.6%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:42] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:44] [INFO] CPU: 99.7%  MEM: 12.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:44] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:46] [INFO] CPU: 99.8%  MEM: 14.1%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:46] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:48] [INFO] CPU: 99.7%  MEM: 10.6%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:48] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:50] [INFO] CPU: 99.6%  MEM: 10.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:50] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:52] [INFO] CPU: 99.7%  MEM: 13.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:42:52] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:54] [INFO] CPU: 83.0%  MEM: 10.7%  PROCS:29  →  MODERADA   (100% confianza)
+[2026-06-10 10:42:54] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:56] [INFO] CPU:  0.1%  MEM: 10.7%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:42:56] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:42:58] [INFO] CPU:  0.1%  MEM: 10.6%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:42:58] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:00] [INFO] CPU:  0.0%  MEM: 10.6%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:43:00] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:02] [INFO] CPU:  0.0%  MEM: 10.5%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:43:02] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:04] [INFO] CPU:  0.0%  MEM: 10.4%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:43:04] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:06] [INFO] CPU: 99.8%  MEM: 14.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:06] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:08] [INFO] CPU: 99.8%  MEM: 12.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:08] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:10] [INFO] CPU: 99.8%  MEM: 11.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:10] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:12] [INFO] CPU: 99.7%  MEM: 12.3%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:12] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:14] [INFO] CPU: 99.9%  MEM: 11.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:14] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:17] [INFO] CPU: 99.8%  MEM: 13.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:17] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:19] [INFO] CPU: 99.7%  MEM: 11.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:19] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:21] [INFO] CPU: 99.8%  MEM: 14.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:21] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:23] [INFO] CPU: 99.8%  MEM: 11.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:23] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:25] [INFO] CPU: 99.7%  MEM: 13.6%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:25] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:27] [INFO] CPU: 99.6%  MEM: 16.1%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:27] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:29] [INFO] CPU: 99.8%  MEM: 15.6%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:29] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:31] [INFO] CPU: 99.8%  MEM: 11.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:31] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:33] [INFO] CPU: 99.7%  MEM: 12.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:33] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:35] [INFO] CPU: 49.4%  MEM: 10.8%  PROCS:29  →  MODERADA   (100% confianza)
+[2026-06-10 10:43:35] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:37] [INFO] CPU:  0.0%  MEM: 10.6%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:43:37] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:39] [INFO] CPU:  0.1%  MEM: 10.5%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:43:39] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:41] [INFO] CPU:  0.0%  MEM: 10.3%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:43:41] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:43] [INFO] CPU:  0.0%  MEM: 10.0%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:43:43] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:45] [INFO] CPU:  0.1%  MEM:  9.9%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:43:45] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:47] [INFO] CPU: 99.5%  MEM: 10.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:48] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:50] [INFO] CPU: 99.7%  MEM: 12.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:50] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:52] [INFO] CPU: 99.7%  MEM: 13.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:52] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:54] [INFO] CPU: 99.8%  MEM: 11.1%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:54] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:56] [INFO] CPU: 99.7%  MEM: 10.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:56] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:43:58] [INFO] CPU: 99.8%  MEM: 15.6%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:43:58] [INFO]   Procesos pesados detectados: python(894)
+[2026-06-10 10:43:58] [INFO]   Procesos modificados: 0
+[2026-06-10 10:44:00] [INFO] CPU: 99.5%  MEM: 13.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:00] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:02] [INFO] CPU: 99.7%  MEM: 10.8%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:02] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:04] [INFO] CPU: 99.6%  MEM: 15.8%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:04] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:06] [INFO] CPU: 99.8%  MEM: 12.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:06] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:08] [INFO] CPU: 99.9%  MEM: 16.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:09] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:11] [INFO] CPU: 99.8%  MEM: 11.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:11] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:13] [INFO] CPU: 99.7%  MEM: 14.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:13] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:15] [INFO] CPU: 99.4%  MEM: 10.8%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:15] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:17] [INFO] CPU: 12.1%  MEM: 10.1%  PROCS:29  →  MODERADA   (100% confianza)
+[2026-06-10 10:44:17] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:19] [INFO] CPU:  0.0%  MEM: 10.1%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:44:19] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:21] [INFO] CPU:  0.0%  MEM: 10.1%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:44:21] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:23] [INFO] CPU:  0.0%  MEM: 10.0%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:44:23] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:25] [INFO] CPU:  0.0%  MEM:  9.9%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:44:25] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:27] [INFO] CPU:  0.0%  MEM:  9.8%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:44:27] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:29] [INFO] CPU: 91.9%  MEM: 11.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:29] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:31] [INFO] CPU: 99.7%  MEM: 10.3%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:31] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:33] [INFO] CPU: 99.8%  MEM: 15.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:33] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:35] [INFO] CPU: 99.8%  MEM: 11.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:35] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:37] [INFO] CPU: 99.8%  MEM: 15.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:37] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:39] [INFO] CPU: 99.6%  MEM: 15.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:39] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:41] [INFO] CPU: 99.8%  MEM: 11.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:41] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:43] [INFO] CPU: 99.9%  MEM: 13.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:44] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:46] [INFO] CPU: 99.7%  MEM: 11.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:46] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:48] [INFO] CPU: 99.8%  MEM: 11.3%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:48] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:50] [INFO] CPU: 99.9%  MEM: 12.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:50] [INFO]   Procesos pesados detectados: python(894)
+[2026-06-10 10:44:50] [INFO]   Procesos modificados: 0
+[2026-06-10 10:44:52] [INFO] CPU: 99.8%  MEM: 14.8%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:52] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:54] [INFO] CPU: 99.9%  MEM: 11.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:54] [INFO]   Procesos pesados detectados: python(894)
+[2026-06-10 10:44:54] [INFO]   Procesos modificados: 0
+[2026-06-10 10:44:56] [INFO] CPU: 99.6%  MEM: 13.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:44:56] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:44:58] [INFO] CPU: 74.7%  MEM: 10.7%  PROCS:29  →  MODERADA   (100% confianza)
+[2026-06-10 10:44:58] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:00] [INFO] CPU:  0.2%  MEM: 10.6%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:45:00] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:02] [INFO] CPU:  0.0%  MEM: 10.5%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:45:02] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:04] [INFO] CPU:  0.0%  MEM: 10.4%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:45:04] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:06] [INFO] CPU:  0.0%  MEM: 10.3%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:45:06] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:08] [INFO] CPU:  0.1%  MEM: 10.3%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:45:08] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:10] [INFO] CPU: 29.9%  MEM: 12.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:10] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:12] [INFO] CPU: 99.9%  MEM: 10.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:13] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:15] [INFO] CPU: 99.8%  MEM: 12.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:15] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:17] [INFO] CPU: 99.6%  MEM: 11.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:17] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:19] [INFO] CPU:100.0%  MEM: 14.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:19] [INFO]   Procesos pesados detectados: python(894)
+[2026-06-10 10:45:19] [INFO]   Procesos modificados: 0
+[2026-06-10 10:45:21] [INFO] CPU: 99.8%  MEM: 11.1%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:21] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:23] [INFO] CPU: 99.6%  MEM: 12.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:23] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:25] [INFO] CPU: 99.5%  MEM: 11.1%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:25] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:27] [INFO] CPU: 99.8%  MEM: 14.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:27] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:30] [INFO] CPU: 99.6%  MEM: 12.5%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:30] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:32] [INFO] CPU: 99.6%  MEM: 11.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:32] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:34] [INFO] CPU: 99.7%  MEM: 11.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:34] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:36] [INFO] CPU: 99.7%  MEM: 11.6%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:36] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:38] [INFO] CPU: 99.7%  MEM: 11.3%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:38] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:40] [INFO] CPU: 94.6%  MEM: 16.1%  PROCS:29  →  MODERADA   (100% confianza)
+[2026-06-10 10:45:40] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:42] [INFO] CPU:  0.1%  MEM: 10.8%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:45:42] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:44] [INFO] CPU:  0.0%  MEM: 10.6%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:45:44] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:46] [INFO] CPU:  0.0%  MEM: 10.6%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:45:46] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:48] [INFO] CPU:  0.0%  MEM: 10.6%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:45:48] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:50] [INFO] CPU:  0.0%  MEM: 10.1%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:45:50] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:52] [INFO] CPU: 99.7%  MEM: 11.6%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:52] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:54] [INFO] CPU: 99.8%  MEM: 10.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:54] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:56] [INFO] CPU: 99.6%  MEM: 11.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:56] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:45:58] [INFO] CPU: 99.9%  MEM: 15.6%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:45:59] [INFO]   Procesos pesados detectados: python(894)
+[2026-06-10 10:45:59] [INFO]   Procesos modificados: 0
+[2026-06-10 10:46:01] [INFO] CPU: 99.7%  MEM: 16.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:01] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:03] [INFO] CPU: 99.7%  MEM: 10.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:03] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:05] [INFO] CPU: 99.8%  MEM: 13.1%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:05] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:07] [INFO] CPU:100.0%  MEM: 13.3%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:07] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:09] [INFO] CPU: 99.7%  MEM: 15.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:09] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:11] [INFO] CPU:100.0%  MEM: 16.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:11] [INFO]   Procesos pesados detectados: python(894)
+[2026-06-10 10:46:11] [INFO]   Procesos modificados: 0
+[2026-06-10 10:46:13] [INFO] CPU: 99.8%  MEM: 12.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:13] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:15] [INFO] CPU: 99.7%  MEM: 15.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:15] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:17] [INFO] CPU:100.0%  MEM: 13.5%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:17] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:19] [INFO] CPU: 99.7%  MEM: 15.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:20] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:22] [INFO] CPU: 47.4%  MEM: 10.9%  PROCS:29  →  MODERADA   (100% confianza)
+[2026-06-10 10:46:22] [INFO]   Procesos pesados detectados: python(894)
+[2026-06-10 10:46:22] [INFO]   Procesos modificados: 0
+[2026-06-10 10:46:24] [INFO] CPU:  0.2%  MEM: 10.8%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:46:24] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:26] [INFO] CPU:  0.1%  MEM: 10.6%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:46:26] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:28] [INFO] CPU:  0.1%  MEM: 10.2%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:46:28] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:30] [INFO] CPU:  0.0%  MEM:  9.9%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:46:30] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:32] [INFO] CPU:  0.0%  MEM:  9.8%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:46:32] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:34] [INFO] CPU: 99.7%  MEM: 11.6%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:34] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:36] [INFO] CPU: 99.6%  MEM: 12.6%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:36] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:38] [INFO] CPU: 99.8%  MEM: 11.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:38] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:40] [INFO] CPU: 99.8%  MEM: 11.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:40] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:42] [INFO] CPU: 99.7%  MEM: 14.4%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:42] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:44] [INFO] CPU: 99.6%  MEM: 10.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:44] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:46] [INFO] CPU:100.0%  MEM: 13.8%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:46] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:49] [INFO] CPU: 99.7%  MEM: 12.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:49] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:51] [INFO] CPU: 99.8%  MEM: 11.3%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:51] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:53] [INFO] CPU: 99.7%  MEM: 14.5%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:53] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:55] [INFO] CPU: 99.6%  MEM: 13.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:55] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:57] [INFO] CPU: 99.5%  MEM: 11.8%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:57] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:46:59] [INFO] CPU: 99.3%  MEM: 11.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:46:59] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:01] [INFO] CPU: 99.9%  MEM: 11.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:01] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:03] [INFO] CPU:  1.2%  MEM: 10.8%  PROCS:29  →  MODERADA   (100% confianza)
+[2026-06-10 10:47:03] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:05] [INFO] CPU:  0.0%  MEM: 10.6%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:47:05] [INFO]   Procesos pesados detectados: python(894)
+[2026-06-10 10:47:05] [INFO]   Procesos modificados: 0
+[2026-06-10 10:47:07] [INFO] CPU:  0.0%  MEM: 10.4%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:47:07] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:09] [INFO] CPU:  0.0%  MEM: 10.4%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:47:09] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:11] [INFO] CPU:  0.0%  MEM: 10.2%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:47:11] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:13] [INFO] CPU:  0.0%  MEM: 10.0%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:47:13] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:15] [INFO] CPU: 99.9%  MEM: 13.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:15] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:17] [INFO] CPU: 99.7%  MEM: 12.8%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:17] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:20] [INFO] CPU:100.0%  MEM: 13.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:20] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:22] [INFO] CPU:100.0%  MEM: 11.5%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:22] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:24] [INFO] CPU: 99.9%  MEM: 10.9%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:24] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:26] [INFO] CPU: 99.5%  MEM: 14.2%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:26] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:28] [INFO] CPU: 99.9%  MEM: 14.0%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:28] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:30] [INFO] CPU: 99.6%  MEM: 13.5%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:30] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:32] [INFO] CPU:100.0%  MEM: 15.8%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:32] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:34] [INFO] CPU: 99.6%  MEM: 14.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:34] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:36] [INFO] CPU: 99.8%  MEM: 12.1%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:37] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:39] [INFO] CPU: 99.6%  MEM: 10.8%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:39] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:41] [INFO] CPU: 99.8%  MEM: 12.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:41] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:43] [INFO] CPU: 99.9%  MEM: 15.7%  PROCS:41  →  PESADA     (100% confianza)
+[2026-06-10 10:47:43] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:45] [INFO] CPU: 17.1%  MEM: 10.6%  PROCS:29  →  MODERADA   (100% confianza)
+[2026-06-10 10:47:45] [INFO]   Procesos pesados detectados: python(894)
+[2026-06-10 10:47:45] [INFO]   Procesos modificados: 0
+[2026-06-10 10:47:47] [INFO] CPU:  4.6%  MEM: 10.5%  PROCS:28  →  MODERADA   (100% confianza)
+[2026-06-10 10:47:47] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:49] [INFO] CPU:  1.7%  MEM: 10.2%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:47:49] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:51] [INFO] CPU:  0.0%  MEM: 10.1%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:47:51] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:53] [INFO] CPU:  0.0%  MEM: 10.0%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:47:53] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:55] [INFO] CPU:  0.0%  MEM:  9.8%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:47:55] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:57] [INFO] CPU:  0.0%  MEM:  9.7%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:47:57] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:47:59] [INFO] CPU:  0.0%  MEM:  9.5%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:47:59] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:48:01] [INFO] CPU:  0.0%  MEM:  9.4%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:48:01] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:48:03] [INFO] CPU:  0.0%  MEM:  9.2%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:48:03] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:48:05] [INFO] CPU:  0.0%  MEM:  9.2%  PROCS:31  →  MODERADA   (100% confianza)
+[2026-06-10 10:48:05] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:48:07] [INFO] CPU:  0.0%  MEM:  9.2%  PROCS:31  →  MODERADA   (100% confianza)
+[2026-06-10 10:48:07] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:48:09] [INFO] CPU:  0.0%  MEM:  9.1%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:48:09] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:48:11] [INFO] CPU:  0.0%  MEM:  9.1%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:48:11] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:48:13] [INFO] CPU:  0.0%  MEM:  9.1%  PROCS:30  →  MODERADA   (100% confianza)
+[2026-06-10 10:48:13] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:48:15] [INFO] CPU:  0.2%  MEM:  9.1%  PROCS:30  →  MODERADA   (100% confianza)
+[2026-06-10 10:48:15] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:48:17] [INFO] CPU:  0.0%  MEM:  9.1%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:48:17] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:48:19] [INFO] CPU:  0.0%  MEM:  9.1%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:48:19] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:48:21] [INFO] CPU:  0.0%  MEM:  9.1%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:48:21] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:48:23] [INFO] CPU:  0.0%  MEM:  9.1%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:48:23] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:48:25] [INFO] CPU:  0.1%  MEM:  9.0%  PROCS:27  →  MODERADA   (100% confianza)
+[2026-06-10 10:48:25] [INFO]   No se encontraron procesos candidatos para renice.
+[2026-06-10 10:48:27] [INFO] 
 Daemon detenido manualmente (Ctrl+C).
-[2026-06-09 13:04:58] [INFO] ═══════════════════════════════════════════════════════
-[2026-06-09 13:04:58] [INFO] Resumen — 223 ciclos en 447s
-[2026-06-09 13:04:58] [INFO]   Ligera  : 223 ciclos
-[2026-06-09 13:04:58] [INFO]   Moderada: 0 ciclos
-[2026-06-09 13:04:58] [INFO]   Pesada  : 0 ciclos
-[2026-06-09 13:04:58] [INFO] ═══════════════════════════════════════════════════════
+[2026-06-10 10:48:27] [INFO] ═══════════════════════════════════════════════════════
+[2026-06-10 10:48:27] [INFO] Resumen — 226 ciclos en 469s
+[2026-06-10 10:48:27] [INFO]   Ligera  : 0 ciclos
+[2026-06-10 10:48:27] [INFO]   Moderada: 85 ciclos
+[2026-06-10 10:48:27] [INFO]   Pesada  : 141 ciclos
+[2026-06-10 10:48:27] [INFO] ═══════════════════════════════════════════════════════

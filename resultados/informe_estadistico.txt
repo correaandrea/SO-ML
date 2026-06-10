@@ -9,26 +9,26 @@ Sistemas Operativos y Laboratorio
   Tiempo real (s)
   Grupo                   n      Media   Desv.Est        Mín        Máx    Mediana
   ──────────────────────────────────────────────────────────────────────────
-  sin_ml                 10    30.9338     0.3169    30.0321    31.0452    31.0328
-  con_ml                 10    31.0330     0.0064    31.0249    31.0417    31.0310
+  sin_ml                 10    31.0487     0.0130    31.0386    31.0780    31.0444
+  con_ml                 10    31.0444     0.0072    31.0363    31.0600    31.0449
 
   Tiempo CPU (s)
   Grupo                   n      Media   Desv.Est        Mín        Máx    Mediana
   ──────────────────────────────────────────────────────────────────────────
-  sin_ml                 10     0.0235     0.0027     0.0186     0.0277     0.0234
-  con_ml                 10     0.0278     0.0132     0.0203     0.0650     0.0241
+  sin_ml                 10     0.0421     0.0087     0.0367     0.0642     0.0382
+  con_ml                 10     0.0378     0.0084     0.0329     0.0612     0.0354
 
   CPU promedio (%)
   Grupo                   n      Media   Desv.Est        Mín        Máx    Mediana
   ──────────────────────────────────────────────────────────────────────────
-  sin_ml                 10    96.1910     1.8833    93.7700    99.8500    96.7200
-  con_ml                 10    95.8380     1.4284    93.6900    96.8200    96.6800
+  sin_ml                 10    95.0000     1.5774    93.4700    96.5400    95.0000
+  con_ml                 10    94.9460     1.5629    93.3900    96.4700    94.9400
 
   Memoria promedio (%)
   Grupo                   n      Media   Desv.Est        Mín        Máx    Mediana
   ──────────────────────────────────────────────────────────────────────────
-  sin_ml                 10    22.0300     0.4369    21.5600    22.9900    21.8750
-  con_ml                 10    24.0970     0.2165    23.7400    24.3800    24.1400
+  sin_ml                 10    11.4520     0.2108    11.1400    11.7800    11.4150
+  con_ml                 10    12.8690     0.3408    12.3100    13.3800    12.8800
 
 ── 2. Prueba t de Student (Welch) — Tiempo real ────────
 
@@ -36,22 +36,22 @@ Sistemas Operativos y Laboratorio
     ejecución entre el grupo sin ML y con ML.
   Hipótesis alternativa (H1): Sí hay diferencia.
 
-  Media grupo control (sin_ml) : 30.9338 s
-  Media grupo tratamiento (con_ml): 31.0330 s
-  Diferencia relativa          : -0.32%
+  Media grupo control (sin_ml) : 31.0487 s
+  Media grupo tratamiento (con_ml): 31.0444 s
+  Diferencia relativa          : +0.01%
 
-  Estadístico t  : -0.99
-  Valor p        : 0.348037
+  Estadístico t  : 0.9335
+  Valor p        : 0.366365
   Nivel α        : 0.05
   Resultado      : No se puede rechazar H0 — diferencia NO significativa.
 
-  Tamaño del efecto (d de Cohen): -0.4427
+  Tamaño del efecto (d de Cohen): 0.4175
   Interpretación: mediano (0.2–0.8)
 
 ── 3. Interpretación ───────────────────────────────────
 
-  La diferencia observada (-0.32%) no es estadísticamente
-  significativa (p = 0.348037 ≥ 0.05).
+  La diferencia observada (+0.01%) no es estadísticamente
+  significativa (p = 0.366365 ≥ 0.05).
   El daemon ML no produjo un impacto medible en el tiempo de ejecución
   bajo las condiciones de este experimento.
 

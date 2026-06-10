@@ -1,9 +1,9 @@
 metrica,modo,n,media,std,min,max,mediana
-Tiempo real (s),sin_ml,10,30.9338,0.3169,30.0321,31.0452,31.0328
-Tiempo real (s),con_ml,10,31.033,0.0064,31.0249,31.0417,31.031
-Tiempo CPU (s),sin_ml,10,0.0235,0.0027,0.0186,0.0277,0.0234
-Tiempo CPU (s),con_ml,10,0.0278,0.0132,0.0203,0.065,0.0241
-CPU promedio (%),sin_ml,10,96.191,1.8833,93.77,99.85,96.72
-CPU promedio (%),con_ml,10,95.838,1.4284,93.69,96.82,96.68
-Memoria promedio (%),sin_ml,10,22.03,0.4369,21.56,22.99,21.875
-Memoria promedio (%),con_ml,10,24.097,0.2165,23.74,24.38,24.14
+Tiempo real (s),sin_ml,10,31.0487,0.013,31.0386,31.078,31.0444
+Tiempo real (s),con_ml,10,31.0444,0.0072,31.0363,31.06,31.0449
+Tiempo CPU (s),sin_ml,10,0.0421,0.0087,0.0367,0.0642,0.0382
+Tiempo CPU (s),con_ml,10,0.0378,0.0084,0.0329,0.0612,0.0354
+CPU promedio (%),sin_ml,10,95.0,1.5774,93.47,96.54,95.0
+CPU promedio (%),con_ml,10,94.946,1.5629,93.39,96.47,94.94
+Memoria promedio (%),sin_ml,10,11.452,0.2108,11.14,11.78,11.415
+Memoria promedio (%),con_ml,10,12.869,0.3408,12.31,13.38,12.88
